@@ -1,1 +1,0 @@
-# red_neuronal_resistencia
